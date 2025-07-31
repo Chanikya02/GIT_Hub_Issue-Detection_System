@@ -1,1 +1,1 @@
-# GIT_Hub_Issue-Detection_System
+# GITHUB_ISSUE-CLASSIFICATION
